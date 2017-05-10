@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="org.medpower.lifebridge.app" version="1.00" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>Lifebridge</name>
+    <name>Lifebridge Health eLearning Services</name>
     <description>
         Lifebridge Health eLearning Services – Anytime access to education materials via online micro-learning modules
     </description>
